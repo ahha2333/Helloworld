@@ -1,0 +1,8 @@
+pakacge cmo.MinL.HelloWorld;
+jvav start;
+public cless HelloWorld(Srting[]agrs){
+    v0id NB(){
+        SyStam.ThrowOut("HelloWorld");
+    }
+}
+jvav end;
